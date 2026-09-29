@@ -72,7 +72,7 @@ The system uses Laravel Routes, Controllers, Models, Blade Views, and a MySQL da
 <img width="1920" height="1080" alt="Screenshot 2026-09-29 215936" src="https://github.com/user-attachments/assets/c103f561-3bc5-41d7-9df1-af3e4e0995dd" />
 <img width="1920" height="1080" alt="Screenshot 2026-09-29 220051" src="https://github.com/user-attachments/assets/6e376177-d3f2-461d-b66f-c7fd33295992" />
 
-## By clicking the 'delete button' the system will ask to confirm their action. Clicking 'OK' the will be deleted, while clicking 'cancel' disclose the dialog.
+## By clicking the 'delete button' the system will ask to confirm their action. Clicking 'OK' the task will be deleted, while clicking 'cancel' disclose the dialog.
 
 <img width="1920" height="1080" alt="Screenshot 2026-09-29 220449" src="https://github.com/user-attachments/assets/669c13ed-3143-4ffa-9ccf-faf8082e8f12" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f10656b8-94c8-4e20-870a-19681b1dfd28" />
