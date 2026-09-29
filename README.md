@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot 2026-09-29 214418" src="https://github.com/user-attachments/assets/d4c284b3-cc7f-4710-9f07-dae8fb16e552" /># Personal Task Manager
+# Personal Task Manager
 
 ## Project Information
 
@@ -44,20 +44,33 @@ The system uses Laravel Routes, Controllers, Models, Blade Views, and a MySQL da
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/57b713c9-3bab-411b-8a6a-b6defd4cd7c6" />
 
-## By clicking the new task it will bring you to the create new task page
+## By clicking the new task button, it will bring you to the create new task page
 
 <img width="1920" height="1080" alt="Screenshot 2026-09-29 212848" src="https://github.com/user-attachments/assets/ddeb4526-d66e-46f7-8549-bb8fde98a913" />
 <img width="1920" height="1080" alt="Screenshot 2026-09-29 213625" src="https://github.com/user-attachments/assets/15f925b7-1c90-4747-9ce7-467936d0c3b2" />
 
-## In order to create new task all fields must be filled
+## In order to create new task all fields must be filled.
 
 <img width="1920" height="1080" alt="Screenshot 2026-09-29 213952" src="https://github.com/user-attachments/assets/e296d23a-e8b6-417b-8af5-396b449615a3" />
 
+## After creating new task, your task will appear in dashboard.
 
+<img width="1920" height="1080" alt="Screenshot 2026-09-29 214418" src="https://github.com/user-attachments/assets/53eb8124-be4d-4223-ac52-af26249352f9" />
 
-## After creating new task, your task will appear in dashboard
+## By clicking the drop down arrow, it will show the pending and completed option.
 
+<img width="1920" height="1080" alt="Screenshot 2026-09-29 214418" src="https://github.com/user-attachments/assets/30e30a59-be4e-4ade-8d2f-30d82089bc2b" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/73a69f71-2ed2-433d-bbfa-d77b9fa382c4" />
 
+## Clicking this edit button, it will bring you to the edit task page.
+
+<img width="1920" height="1080" alt="Screenshot 2026-09-29 215355" src="https://github.com/user-attachments/assets/b32a2ea9-a62f-4fb2-8941-85538bfc2778" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/81cde052-0618-4a0b-a61e-3ed5540f999a" />
+
+## By clicking the 'back to dashboard' it will bring you back to the dashboard.
+
+<img width="1920" height="1080" alt="Screenshot 2026-09-29 220051" src="https://github.com/user-attachments/assets/6e376177-d3f2-461d-b66f-c7fd33295992" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-29 215936" src="https://github.com/user-attachments/assets/c103f561-3bc5-41d7-9df1-af3e4e0995dd" />
 
 
 ## Database
