@@ -2,13 +2,17 @@
 
 ## Project Information
 
-**Project Code:** WST21-PM-2026-SF
+**Project Code** 
+WST21-PM-2026-SF
 
-**Student Name:** Szymon Darwin C. Limbaga
+**Student Name** 
+Szymon Darwin C. Limbaga
 
-**Course & Year:** BSIT - 2nd Year
+**Course & Year** 
+BSIT - 2nd Year
 
-**Database Used:** MySQL
+**Database Used** 
+MySQL
 
 ## Project Description
 
