@@ -1,4 +1,4 @@
-# Personal Task Manager
+<img width="1920" height="1080" alt="Screenshot 2026-09-29 214418" src="https://github.com/user-attachments/assets/d4c284b3-cc7f-4710-9f07-dae8fb16e552" /># Personal Task Manager
 
 ## Project Information
 
@@ -43,6 +43,21 @@ The system uses Laravel Routes, Controllers, Models, Blade Views, and a MySQL da
 ## UI
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/57b713c9-3bab-411b-8a6a-b6defd4cd7c6" />
+
+## By clicking the new task it will bring you to the create new task page
+
+<img width="1920" height="1080" alt="Screenshot 2026-09-29 212848" src="https://github.com/user-attachments/assets/ddeb4526-d66e-46f7-8549-bb8fde98a913" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-29 213625" src="https://github.com/user-attachments/assets/15f925b7-1c90-4747-9ce7-467936d0c3b2" />
+
+## In order to create new task all fields must be filled
+
+<img width="1920" height="1080" alt="Screenshot 2026-09-29 213952" src="https://github.com/user-attachments/assets/e296d23a-e8b6-417b-8af5-396b449615a3" />
+
+
+
+## After creating new task, your task will appear in dashboard
+
+
 
 
 ## Database
