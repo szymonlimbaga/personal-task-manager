@@ -69,9 +69,8 @@ The system uses Laravel Routes, Controllers, Models, Blade Views, and a MySQL da
 
 ## By clicking the 'back to dashboard' it will bring you back to the dashboard.
 
-<img width="1920" height="1080" alt="Screenshot 2026-09-29 220051" src="https://github.com/user-attachments/assets/6e376177-d3f2-461d-b66f-c7fd33295992" />
 <img width="1920" height="1080" alt="Screenshot 2026-09-29 215936" src="https://github.com/user-attachments/assets/c103f561-3bc5-41d7-9df1-af3e4e0995dd" />
-
+<img width="1920" height="1080" alt="Screenshot 2026-09-29 220051" src="https://github.com/user-attachments/assets/6e376177-d3f2-461d-b66f-c7fd33295992" />
 
 ## Database
 
