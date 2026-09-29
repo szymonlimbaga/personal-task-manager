@@ -6,7 +6,7 @@
 
 **Student Name:** Szymon Darwin C. Limbaga
 
-**Course & Year:** IT - 1st Year
+**Course & Year:** BSIT - 2nd Year
 
 **Database Used:** MySQL
 
