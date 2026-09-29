@@ -40,6 +40,11 @@ The Personal Task Manager is a simple Laravel web application that allows users 
 
 The system uses Laravel Routes, Controllers, Models, Blade Views, and a MySQL database.
 
+## UI
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/57b713c9-3bab-411b-8a6a-b6defd4cd7c6" />
+
+
 ## Database
 
 The project uses a MySQL database named:
