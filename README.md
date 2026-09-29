@@ -14,12 +14,6 @@ BSIT - 2nd Year
 ## Database Used:
 MySQL
 
-## Project Description
-
-The Personal Task Manager is a simple Laravel web application that allows users to manage their personal tasks.
-
-The system uses Laravel Routes, Controllers, Models, Blade Views, and a MySQL database.
-
 ## Features
 
 - Add Task
@@ -39,6 +33,12 @@ The system uses Laravel Routes, Controllers, Models, Blade Views, and a MySQL da
 - HTML
 - CSS
 - JavaScript
+
+## Project Description
+
+The Personal Task Manager is a simple Laravel web application that allows users to manage their personal tasks.
+
+The system uses Laravel Routes, Controllers, Models, Blade Views, and a MySQL database.
 
 ## Database
 
